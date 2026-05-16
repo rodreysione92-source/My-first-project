@@ -5,21 +5,7 @@ This project serves as a base dependency for Solidity-based ERC20 contract proje
 
 ## Table of Contents
 
-- [Overview](#overview)
-  * [Installation](#installation)
-  * [Usage](#usage)
-    - [Solidity Contracts](#solidity-contracts)
-    - [Test and Migration Scripts](#test-and-migration-scripts)
-
-
-## Overview
-
-### Installation
-
-Install as a module dependency in your host NodeJS project:
-
-```bash
-npm install --save-dev @animoca/ethereum-contracts-erc20_base
+- 
 ```
 
 
